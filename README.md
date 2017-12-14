@@ -14,4 +14,4 @@ Avec à la fois des compétences en Systèmes Embarqués et en Robotique.
 **ReadyJenkins** est un guide permettant d'apprendre 
 l'intégration continue avec Jenkins.  
 Ce guide est développé et maintenu par 
-[Gerard KESSE](http://5.48.230.127:8855/presentation/ "Accédez à mon site web (ReadyDev)").
+[Gerard KESSE](http://5.48.230.127:8855/Presentation/ "Accédez à mon site web (ReadyDev)").
