@@ -1,10 +1,8 @@
 //===============================================
 #include <iostream>
 //===============================================
-using namespace std;
-//===============================================
-int main(int argc, char**argv) {
-    cout << "hello world\n";
+int main(int argc, char** argv) {
+    std::cout << "Bonjour tout le monde\n";
     return 0;
 }
 //===============================================
